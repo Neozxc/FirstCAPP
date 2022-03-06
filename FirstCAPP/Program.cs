@@ -10,6 +10,14 @@ namespace FirstCAPP
     {
         static void Main(string[] args)
         {
+            string characterName = "Test";
+            int characterAge;
+            characterAge = 35;
+
+
+            Console.WriteLine("Hello! " + characterName + "Your age is: " + characterAge);
+
+            Console.ReadLine();
         }
     }
 }
