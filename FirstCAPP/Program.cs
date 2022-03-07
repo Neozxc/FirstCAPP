@@ -10,12 +10,34 @@ namespace FirstCAPP
     {
         static void Main(string[] args)
         {
-            string characterName = "Test";
-            int characterAge;
-            characterAge = 35;
+            // string characterName = "Test";
+            // int characterAge;
+            // characterAge = 35;
 
 
-            Console.WriteLine("Hello! " + characterName + "Your age is: " + characterAge);
+            // Console.WriteLine("Hello! " + characterName + "Your age is: " + characterAge);
+
+            // characterName = "New Test";
+            // Console.WriteLine("Your name changed to: " + characterName);
+            // Console.ReadLine();
+
+            // string phrase = "Testing";
+            // One character with char
+            // char gradeu = "A";
+            // int age = 30;
+
+            // If you want to be precise and exact use
+            // decimal for example 3.2
+            // float will be less precise
+            // and double is just right there in the middle.
+
+            // float, double, decimal
+
+            // bool for booleans = true = false
+
+            // string testing = "Testing\nHehe!";
+            
+            // Console.WriteLine(testing);
 
             Console.ReadLine();
         }
