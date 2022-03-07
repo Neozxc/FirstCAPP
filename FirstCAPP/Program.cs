@@ -36,8 +36,19 @@ namespace FirstCAPP
             // bool for booleans = true = false
 
             // string testing = "Testing\nHehe!";
-            
+
             // Console.WriteLine(testing);
+
+
+            // Simple application, get user input and output to the screen!
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine();
+            Console.WriteLine(name);
+
+            Console.Write("How old are you? " + name + "");
+            string age = Console.ReadLine();
+            Console.WriteLine("My name is " + name + " And i am " + age + " years old.");
+
 
             Console.ReadLine();
         }
