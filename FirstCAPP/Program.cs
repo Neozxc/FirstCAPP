@@ -41,13 +41,46 @@ namespace FirstCAPP
 
 
             // Simple application, get user input and output to the screen!
-            Console.Write("Enter your name: ");
-            string name = Console.ReadLine();
-            Console.WriteLine(name);
+            // Console.Write("Enter your name: ");
+            // string name = Console.ReadLine();
+            // Console.WriteLine(name);
 
-            Console.Write("How old are you? " + name + "");
-            string age = Console.ReadLine();
-            Console.WriteLine("My name is " + name + " And i am " + age + " years old.");
+            // Console.Write("How old are you? " + name + "");
+            // string age = Console.ReadLine();
+            // Console.WriteLine("My name is " + name + " And i am " + age + " years old.");
+
+            // int num = Convert.ToInt32("45");
+            // Console.WriteLine(num);
+
+            // Calculator application
+            // Console.WriteLine("Enter a number: ");
+            // int num1 = Convert.ToInt32(Console.ReadLine());
+            // Console.WriteLine("Enter another number: ");
+            // int num2 = Convert.ToInt32(Console.ReadLine());
+
+            // To doubles
+            // Console.WriteLine("Enter a number: ");
+            // double num1 = Convert.ToDouble(Console.ReadLine());
+            // Console.WriteLine("Enter another number: ");
+            // double num2 = Convert.ToDouble(Console.ReadLine());
+
+            // Console.WriteLine(num1 + num2);
+
+
+            // Simple application madlip
+            // string color, pluralNoun, celebrity;
+
+            // Console.Write("Enter a color: ");
+            // color = Console.ReadLine();
+            // Console.Write("Enter a plural noun: ");
+            // pluralNoun = Console.ReadLine();
+            // Console.Write("Enter a celebrity: ");
+            // celebrity = Console.ReadLine();
+
+            // Console.WriteLine("Roses are red " + color);
+            // Console.WriteLine(pluralNoun + " are blue");
+            // Console.WriteLine("I Love You " + celebrity);
+
 
 
             Console.ReadLine();
